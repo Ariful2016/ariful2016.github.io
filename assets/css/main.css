@@ -2783,18 +2783,18 @@ textarea:focus::placeholder {
   background: #1773ea;
   color: #fff;
 }
-.bostami-parsonal-info-social-link .twitter {
-  color: #1c9cea;
+.bostami-parsonal-info-social-link .github {
+  color:#181717ea;
 }
-.bostami-parsonal-info-social-link .twitter:hover {
-  background: #1773ea;
+.bostami-parsonal-info-social-link .github:hover {
+  background:#181717;
   color: #fff;
 }
-.bostami-parsonal-info-social-link .instagram {
-  color: #e12a72;
+.bostami-parsonal-info-social-link .skype {
+  color: #00AFF0;
 }
-.bostami-parsonal-info-social-link .instagram:hover {
-  background: #e12a72;
+.bostami-parsonal-info-social-link .skype:hover {
+  background: #00AFF0;
   color: #fff;
 }
 .bostami-parsonal-info-social-link .linkedin {
